@@ -1,16 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Augustin Laurent
 ========================================================================================================================================
 
-Student and Data Engineer
+Software Engineer · Java · CI/CD · Software Quality
 -------------------------
 
-I've been studying computer science for 5 years, got my Master's Degree in CS specialised in Data & AI in September 2024.
+I'm a software engineer based in Toulouse, France. I build robust, tested and maintainable applications, with a focus on Java, delivery automation and software quality.
 
-* 🌍  I'm based in Toulouse, France
-* 🖥️  See my portfolio at [this adress](http://augustin-laurent.com)
-* ✉️  You can contact me at [augustin.laurent@proton.me](mailto:augustin.laurent@proton.me)
-* 🧠  I'm learning how to master new web framework.
-* 🤝  I'm open to collaborate on Deep Learning, Machine Learning, Web App with new framework and other cool stuff that can make me progress in my career !
+My professional experience includes Java 17/21, automated testing, Cucumber, Docker, GitLab CI/CD, code coverage and quality gates. 
+I also work with legacy modernisation, Angular, React, Python and Azure data pipelines.
 
 ### Skills
 
